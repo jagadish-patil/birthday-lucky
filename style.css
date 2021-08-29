@@ -65,10 +65,10 @@ footer {
   img,
   li {
     display: inline;
+    padding: 0.2rem;
   }
   
   img {
-    width: 40px;
-    padding: 0.2rem;
+    width: 40px;    
     background: var(--primary-green);
   }
